@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: nadezhnye-kazino-s-bystrymi-vyplatami.github.io
+Sitemap: https://nadezhnye-kazino-s-bystrymi-vyplatami.github.io/sitemap.xml
